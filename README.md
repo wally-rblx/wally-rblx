@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+## Languages I have any experience in: Lua, JS, C#, PHP
+
+## I have a very bad addiction to Red Bull and Monster :)
 
 <!--
 **wally-rblx/wally-rblx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
