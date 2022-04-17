@@ -1,6 +1,7 @@
-# I am a programmer who mainly makes scripts on Roblox.
-# Languages I have any experience in: Lua, JS, C#, PHP
-# I have a very bad addiction to Red Bull and Monster :)
+I am a programmer who mainly makes scripts on Roblox.<br>
+Languages I have any experience in: **Lua, JS, C#, PHP**<br>
+I have a very bad addiction to Red Bull and Monster :)<br>
+###### I know this document looks bad :)
 
 <!--
 **wally-rblx/wally-rblx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
